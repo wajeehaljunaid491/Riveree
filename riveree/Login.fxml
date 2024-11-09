@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" prefHeight="599.0" prefWidth="852.0" style="-fx-background-color: ffff;" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="riveree.Logincontroller">
+   <children>
+      <Label layoutX="616.0" layoutY="98.0" text="Log In">
+         <font>
+            <Font size="31.0" />
+         </font>
+      </Label>
+      <TextField fx:id="tfEmail" layoutX="535.0" layoutY="190.0" prefHeight="38.0" prefWidth="250.0" promptText="Email" style="-fx-background-radius: 40; -fx-background-color: ffff;">
+         <effect>
+            <DropShadow blurType="GAUSSIAN" height="15.7" offsetY="4.0" radius="7.35" width="15.7">
+               <color>
+                  <Color opacity="0.25" />
+               </color>
+            </DropShadow>
+         </effect></TextField>
+      <Button fx:id="loginButton" layoutX="604.0" layoutY="326.0" mnemonicParsing="false" onAction="#login" prefHeight="46.0" prefWidth="112.0" style="-fx-background-radius: 40; -fx-background-color: #1796DD;" text="LOG IN" textFill="WHITE">
+         <effect>
+            <DropShadow blurType="GAUSSIAN" height="15.7" offsetY="4.0" radius="7.35" width="15.7">
+               <color>
+                  <Color opacity="0.25" />
+               </color>
+            </DropShadow>
+         </effect></Button>
+      <Label layoutX="582.0" layoutY="398.0" text="Don't have an account?">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <Button fx:id="signUpButton" layoutX="604.0" layoutY="429.0" mnemonicParsing="false" onAction="#handleSignUpButton" prefHeight="46.0" prefWidth="112.0" style="-fx-background-radius: 40; -fx-background-color: #1796DD #1796DD;" text="SIGN UP" textFill="WHITE">
+         <effect>
+            <DropShadow height="15.7" offsetY="4.0" radius="7.35" width="15.7">
+               <color>
+                  <Color opacity="0.25" />
+               </color>
+            </DropShadow>
+         </effect></Button>
+      <PasswordField fx:id="pfPassword" layoutX="535.0" layoutY="251.0" prefHeight="37.0" prefWidth="249.0" promptText="Password" style="-fx-background-radius: 40; -fx-background-color: ffff;">
+         <effect>
+            <DropShadow blurType="GAUSSIAN" height="15.64" offsetY="4.0" radius="7.335" width="15.7">
+               <color>
+                  <Color opacity="0.25" />
+               </color>
+            </DropShadow>
+         </effect></PasswordField>
+      <ImageView fitHeight="600.0" fitWidth="498.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@pexels-emre-can-acer-2189700.jpg" />
+         </image>
+      </ImageView>
+      <Text layoutX="154.0" layoutY="93.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Wellcome to rivree">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
