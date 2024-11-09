@@ -1,0 +1,1005 @@
+<riveree.lab.RiverList>
+  <dataList class="com.sun.javafx.collections.ObservableListWrapper">
+    <listenerHelper class="com.sun.javafx.collections.ListListenerHelper$SingleChange">
+      <listener class="javafx.collections.WeakListChangeListener">
+        <ref>
+          <referent class="null"/>
+          <queue class="java.lang.ref.ReferenceQueue$Null">
+            <lock/>
+            <queueLength>0</queueLength>
+          </queue>
+        </ref>
+      </listener>
+    </listenerHelper>
+    <changeBuilder>
+      <list class="com.sun.javafx.collections.ObservableListWrapper" reference="../.."/>
+      <changeLock>0</changeLock>
+      <addRemoveChanges/>
+    </changeBuilder>
+    <backingList>
+      <riveree.lab.River>
+        <name class="javafx.beans.property.SimpleStringProperty">
+          <value>1</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>1</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </name>
+        <location class="javafx.beans.property.SimpleStringProperty">
+          <value>1</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>1</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </location>
+        <pH class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>1</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </pH>
+        <temperature class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>1</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </temperature>
+        <ammonia class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>1</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </ammonia>
+        <solid class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>1</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </solid>
+        <observer class="javafx.beans.property.SimpleStringProperty">
+          <value>1</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>1</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </observer>
+        <date class="javafx.beans.property.SimpleStringProperty">
+          <value>2023-07-11</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>1</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </date>
+        <conclusion class="javafx.beans.property.SimpleStringProperty">
+          <value>11</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>1</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </conclusion>
+        <dissolvesOxygen class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>1</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </dissolvesOxygen>
+        <chemicalOxygen class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>1</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </chemicalOxygen>
+        <biologicalOxygen class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>1</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </biologicalOxygen>
+      </riveree.lab.River>
+      <riveree.lab.River>
+        <name class="javafx.beans.property.SimpleStringProperty">
+          <value>1</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null">
+                    <lock/>
+                    <queueLength>0</queueLength>
+                  </queue>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </name>
+        <location class="javafx.beans.property.SimpleStringProperty">
+          <value>1</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </location>
+        <pH class="javafx.beans.property.SimpleDoubleProperty">
+          <value>10.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </pH>
+        <temperature class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </temperature>
+        <ammonia class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </ammonia>
+        <solid class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </solid>
+        <observer class="javafx.beans.property.SimpleStringProperty">
+          <value>1</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </observer>
+        <date class="javafx.beans.property.SimpleStringProperty">
+          <value>2023-07-11</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </date>
+        <conclusion class="javafx.beans.property.SimpleStringProperty">
+          <value>11</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </conclusion>
+        <dissolvesOxygen class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </dissolvesOxygen>
+        <chemicalOxygen class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </chemicalOxygen>
+        <biologicalOxygen class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </biologicalOxygen>
+      </riveree.lab.River>
+      <riveree.lab.River>
+        <name class="javafx.beans.property.SimpleStringProperty">
+          <value>1</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../riveree.lab.River[2]/name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </name>
+        <location class="javafx.beans.property.SimpleStringProperty">
+          <value>1</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../riveree.lab.River[2]/name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </location>
+        <pH class="javafx.beans.property.SimpleDoubleProperty">
+          <value>7.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../riveree.lab.River[2]/name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </pH>
+        <temperature class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../riveree.lab.River[2]/name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </temperature>
+        <ammonia class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../riveree.lab.River[2]/name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </ammonia>
+        <solid class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../riveree.lab.River[2]/name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </solid>
+        <observer class="javafx.beans.property.SimpleStringProperty">
+          <value>1</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../riveree.lab.River[2]/name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </observer>
+        <date class="javafx.beans.property.SimpleStringProperty">
+          <value>2023-07-11</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../riveree.lab.River[2]/name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </date>
+        <conclusion class="javafx.beans.property.SimpleStringProperty">
+          <value>11</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../riveree.lab.River[2]/name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </conclusion>
+        <dissolvesOxygen class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../riveree.lab.River[2]/name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </dissolvesOxygen>
+        <chemicalOxygen class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../riveree.lab.River[2]/name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </chemicalOxygen>
+        <biologicalOxygen class="javafx.beans.property.SimpleDoubleProperty">
+          <value>1.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$Generic">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <invalidationListeners>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../riveree.lab.River[2]/name/helper/invalidationListeners/javafx.beans.WeakInvalidationListener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+              <javafx.beans.WeakInvalidationListener>
+                <ref>
+                  <referent class="null"/>
+                  <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../../listenerHelper/listener/ref/queue"/>
+                </ref>
+              </javafx.beans.WeakInvalidationListener>
+            </invalidationListeners>
+            <invalidationSize>2</invalidationSize>
+            <changeSize>0</changeSize>
+            <locked>false</locked>
+          </helper>
+          <name></name>
+        </biologicalOxygen>
+      </riveree.lab.River>
+      <riveree.lab.River>
+        <name class="javafx.beans.property.SimpleStringProperty">
+          <value>junaid3</value>
+          <valid>false</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <listener class="javafx.beans.WeakInvalidationListener">
+              <ref>
+                <referent class="null"/>
+                <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../listenerHelper/listener/ref/queue"/>
+              </ref>
+            </listener>
+          </helper>
+          <name></name>
+        </name>
+        <location class="javafx.beans.property.SimpleStringProperty">
+          <value>8j</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <listener class="javafx.beans.WeakInvalidationListener">
+              <ref>
+                <referent class="null"/>
+                <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../listenerHelper/listener/ref/queue"/>
+              </ref>
+            </listener>
+          </helper>
+          <name></name>
+        </location>
+        <pH class="javafx.beans.property.SimpleDoubleProperty">
+          <value>9.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <listener class="javafx.beans.WeakInvalidationListener">
+              <ref>
+                <referent class="null"/>
+                <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../listenerHelper/listener/ref/queue"/>
+              </ref>
+            </listener>
+          </helper>
+          <name></name>
+        </pH>
+        <temperature class="javafx.beans.property.SimpleDoubleProperty">
+          <value>8.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <listener class="javafx.beans.WeakInvalidationListener">
+              <ref>
+                <referent class="null"/>
+                <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../listenerHelper/listener/ref/queue"/>
+              </ref>
+            </listener>
+          </helper>
+          <name></name>
+        </temperature>
+        <ammonia class="javafx.beans.property.SimpleDoubleProperty">
+          <value>99.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <listener class="javafx.beans.WeakInvalidationListener">
+              <ref>
+                <referent class="null"/>
+                <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../listenerHelper/listener/ref/queue"/>
+              </ref>
+            </listener>
+          </helper>
+          <name></name>
+        </ammonia>
+        <solid class="javafx.beans.property.SimpleDoubleProperty">
+          <value>7.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <listener class="javafx.beans.WeakInvalidationListener">
+              <ref>
+                <referent class="null"/>
+                <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../listenerHelper/listener/ref/queue"/>
+              </ref>
+            </listener>
+          </helper>
+          <name></name>
+        </solid>
+        <observer class="javafx.beans.property.SimpleStringProperty">
+          <value>1</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <listener class="javafx.beans.WeakInvalidationListener">
+              <ref>
+                <referent class="null"/>
+                <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../listenerHelper/listener/ref/queue"/>
+              </ref>
+            </listener>
+          </helper>
+          <name></name>
+        </observer>
+        <date class="javafx.beans.property.SimpleStringProperty">
+          <value>2023-07-12</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <listener class="javafx.beans.WeakInvalidationListener">
+              <ref>
+                <referent class="null"/>
+                <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../listenerHelper/listener/ref/queue"/>
+              </ref>
+            </listener>
+          </helper>
+          <name></name>
+        </date>
+        <conclusion class="javafx.beans.property.SimpleStringProperty">
+          <value>5</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+            <observable class="javafx.beans.property.SimpleStringProperty" reference="../.."/>
+            <listener class="javafx.beans.WeakInvalidationListener">
+              <ref>
+                <referent class="null"/>
+                <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../listenerHelper/listener/ref/queue"/>
+              </ref>
+            </listener>
+          </helper>
+          <name></name>
+        </conclusion>
+        <dissolvesOxygen class="javafx.beans.property.SimpleDoubleProperty">
+          <value>98.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <listener class="javafx.beans.WeakInvalidationListener">
+              <ref>
+                <referent class="null"/>
+                <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../listenerHelper/listener/ref/queue"/>
+              </ref>
+            </listener>
+          </helper>
+          <name></name>
+        </dissolvesOxygen>
+        <chemicalOxygen class="javafx.beans.property.SimpleDoubleProperty">
+          <value>0.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <listener class="javafx.beans.WeakInvalidationListener">
+              <ref>
+                <referent class="null"/>
+                <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../listenerHelper/listener/ref/queue"/>
+              </ref>
+            </listener>
+          </helper>
+          <name></name>
+        </chemicalOxygen>
+        <biologicalOxygen class="javafx.beans.property.SimpleDoubleProperty">
+          <value>9.0</value>
+          <valid>true</valid>
+          <helper class="com.sun.javafx.binding.ExpressionHelper$SingleInvalidation">
+            <observable class="javafx.beans.property.SimpleDoubleProperty" reference="../.."/>
+            <listener class="javafx.beans.WeakInvalidationListener">
+              <ref>
+                <referent class="null"/>
+                <queue class="java.lang.ref.ReferenceQueue$Null" reference="../../../../../../../listenerHelper/listener/ref/queue"/>
+              </ref>
+            </listener>
+          </helper>
+          <name></name>
+        </biologicalOxygen>
+      </riveree.lab.River>
+    </backingList>
+  </dataList>
+</riveree.lab.RiverList>
